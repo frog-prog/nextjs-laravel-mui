@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+}
+.pagination-buttons{
+    color: #fff;
+    width:100%;
+    height:100%;
+    padding: 11px;
+}
+.pagination-tabs-cameras,.pagination-tabs-conditioners,.pagination-tabs-main{
+    color: #162eae;
+    width:100%;
+    height:100%;
+    padding: 11px;
+}
+.sliderImage{
+max-width: 100%;
+    height: auto;
+}

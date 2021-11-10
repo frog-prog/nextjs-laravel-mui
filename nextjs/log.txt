@@ -1,0 +1,6228 @@
+
+> nextjs@4.0.0 build
+> next build
+
+info  - Using webpack 5. Reason: Enabled by default https://nextjs.org/docs/messages/webpack5
+info  - Checking validity of types...
+info  - Creating an optimized production build...
+info  - Compiled successfully
+info  - Collecting page data...
+info  - Generating static pages (0/131)
+PROPS FOR Cameras/PAGE    PAGE:   1  COUNT:   4  PAGEDATA:   [
+  [
+    {
+      id: 1,
+      name: '0camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 9167,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 2,
+      name: '1camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 20744,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 3,
+      name: '2camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 7823,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 4,
+      name: '3camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 17816,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 5,
+      name: '4camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 33497,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 6,
+      name: '5camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 19209,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 7,
+      name: '6camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 31627,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 8,
+      name: '7camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 43852,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 9,
+      name: '8camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 32455,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 11,
+      name: '10camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 3313,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 12,
+      name: '11camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 40775,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 13,
+      name: '12camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 30212,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 14,
+      name: '13camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 4321,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 15,
+      name: '14camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 30932,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 16,
+      name: '15camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 50367,
+      Brand: [Object],
+      presence: true
+    }
+  ],
+  {
+    digits: {
+      maxprice: 51727,
+      minprice: 3313,
+      maxangle: 160,
+      minangle: 30,
+      maxres: '28.9',
+      minres: '2.1',
+      maxfar: 20,
+      minfar: 3
+    },
+    Brands: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+]
+PROPS FOR Cameras/PAGE    PAGE:   2  COUNT:   4  PAGEDATA:   [
+  [
+    {
+      id: 18,
+      name: '17camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 19644,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 19,
+      name: '18camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 15294,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 20,
+      name: '19camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 17347,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 21,
+      name: '20camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 25763,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 22,
+      name: '21camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 27717,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 23,
+      name: '22camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 45187,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 24,
+      name: '23camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 28274,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 25,
+      name: '24camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 41061,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 26,
+      name: '25camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 32452,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 28,
+      name: '27camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 45972,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 29,
+      name: '28camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 9458,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 30,
+      name: '29camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 36620,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 31,
+      name: '30camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 49939,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 32,
+      name: '31camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 34608,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 33,
+      name: '32camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 47424,
+      Brand: [Object],
+      presence: true
+    }
+  ],
+  {
+    digits: {
+      maxprice: 51727,
+      minprice: 3313,
+      maxangle: 160,
+      minangle: 30,
+      maxres: '28.9',
+      minres: '2.1',
+      maxfar: 20,
+      minfar: 3
+    },
+    Brands: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+]
+PROPS FOR Cameras/PAGE    PAGE:   3  COUNT:   4  PAGEDATA:   [
+  [
+    {
+      id: 34,
+      name: '33camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 17350,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 35,
+      name: '34camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 48633,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 36,
+      name: '35camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 33846,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 38,
+      name: '37camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 8369,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 40,
+      name: '39camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 36099,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 41,
+      name: '40camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 23644,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 42,
+      name: '41camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 4614,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 43,
+      name: '42camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 10583,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 44,
+      name: '43camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 47066,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 45,
+      name: '44camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 21326,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 47,
+      name: '46camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 25658,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 48,
+      name: '47camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 5372,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 49,
+      name: '48camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 8782,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 51,
+      name: '50camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 17489,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 52,
+      name: '51camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 16187,
+      Brand: [Object],
+      presence: true
+    }
+  ],
+  {
+    digits: {
+      maxprice: 51727,
+      minprice: 3313,
+      maxangle: 160,
+      minangle: 30,
+      maxres: '28.9',
+      minres: '2.1',
+      maxfar: 20,
+      minfar: 3
+    },
+    Brands: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+]
+PROPS FOR Cameras/PAGE    PAGE:   4  COUNT:   4  PAGEDATA:   [
+  [
+    {
+      id: 53,
+      name: '52camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 50913,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 54,
+      name: '53camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 13438,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 55,
+      name: '54camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 30028,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 56,
+      name: '55camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 18334,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 57,
+      name: '56camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 20484,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 58,
+      name: '57camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 25132,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 59,
+      name: '58camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 27317,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 60,
+      name: '59camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 4694,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 27,
+      name: '26camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 35604,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 17,
+      name: '16camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 14555,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 10,
+      name: '9camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 10479,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 39,
+      name: '38camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 23051,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 37,
+      name: '36camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 51727,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 50,
+      name: '49camera',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 45016,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 46,
+      name: '45camera',
+      pic: 'http://apiback/pictures/cams/45camera/avatar.jpeg',
+      price: 9808,
+      Brand: [Object],
+      presence: false
+    }
+  ],
+  {
+    digits: {
+      maxprice: 51727,
+      minprice: 3313,
+      maxangle: 160,
+      minangle: 30,
+      maxres: '28.9',
+      minres: '2.1',
+      maxfar: 20,
+      minfar: 3
+    },
+    Brands: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+]
+PROPS FOR Conditioners/PAGE    PAGE:   1  COUNT:   4  PAGEDATA:   [
+  [
+    {
+      id: 1,
+      name: '0conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 43233,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 2,
+      name: '1conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 15688,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 3,
+      name: '2conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 24541,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 4,
+      name: '3conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 8087,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 5,
+      name: '4conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 25320,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 6,
+      name: '5conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 11267,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 7,
+      name: '6conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 14124,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 8,
+      name: '7conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 44996,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 9,
+      name: '8conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 10187,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 10,
+      name: '9conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 35857,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 11,
+      name: '10conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 47865,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 12,
+      name: '11conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 36195,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 13,
+      name: '12conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 17009,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 14,
+      name: '13conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 24956,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 15,
+      name: '14conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 42883,
+      Brand: [Object],
+      presence: true
+    }
+  ],
+  {
+    digits: { maxprice: 52534, minprice: 2072, maxpower: 7, minpower: 1 },
+    Brands: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+]
+PROPS FOR Conditioners/PAGE    PAGE:   2  COUNT:   4  PAGEDATA:   [
+  [
+    {
+      id: 16,
+      name: '15conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 5941,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 17,
+      name: '16conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 41821,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 18,
+      name: '17conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 35849,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 19,
+      name: '18conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 26944,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 20,
+      name: '19conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 12055,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 21,
+      name: '20conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 33615,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 22,
+      name: '21conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 39110,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 23,
+      name: '22conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 12704,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 24,
+      name: '23conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 48723,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 25,
+      name: '24conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 38387,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 26,
+      name: '25conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 12310,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 27,
+      name: '26conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 52139,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 28,
+      name: '27conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 27774,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 29,
+      name: '28conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 32530,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 30,
+      name: '29conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 44232,
+      Brand: [Object],
+      presence: true
+    }
+  ],
+  {
+    digits: { maxprice: 52534, minprice: 2072, maxpower: 7, minpower: 1 },
+    Brands: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+]
+PROPS FOR Conditioners/PAGE    PAGE:   3  COUNT:   4  PAGEDATA:   [
+  [
+    {
+      id: 31,
+      name: '30conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 32450,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 32,
+      name: '31conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 22882,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 33,
+      name: '32conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 33438,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 34,
+      name: '33conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 33543,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 35,
+      name: '34conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 41058,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 36,
+      name: '35conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 43932,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 37,
+      name: '36conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 27290,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 38,
+      name: '37conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 16483,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 39,
+      name: '38conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 25156,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 40,
+      name: '39conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 28715,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 41,
+      name: '40conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 40819,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 42,
+      name: '41conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 32207,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 43,
+      name: '42conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 45396,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 44,
+      name: '43conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 32632,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 45,
+      name: '44conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 19440,
+      Brand: [Object],
+      presence: true
+    }
+  ],
+  {
+    digits: { maxprice: 52534, minprice: 2072, maxpower: 7, minpower: 1 },
+    Brands: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+]
+PROPS FOR Conditioners/PAGE    PAGE:   4  COUNT:   4  PAGEDATA:   [
+  [
+    {
+      id: 46,
+      name: '45conditioner',
+      pic: 'http://apiback/pictures/conds/45conditioner/avatar.jpeg',
+      price: 9419,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 47,
+      name: '46conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 25556,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 48,
+      name: '47conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 14844,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 49,
+      name: '48conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 2072,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 50,
+      name: '49conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 27844,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 51,
+      name: '50conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 52534,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 52,
+      name: '51conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 8676,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 53,
+      name: '52conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 25792,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 54,
+      name: '53conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 38294,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 55,
+      name: '54conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 30411,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 56,
+      name: '55conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 43040,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 57,
+      name: '56conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 17729,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 58,
+      name: '57conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 51087,
+      Brand: [Object],
+      presence: false
+    },
+    {
+      id: 59,
+      name: '58conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 47807,
+      Brand: [Object],
+      presence: true
+    },
+    {
+      id: 60,
+      name: '59conditioner',
+      pic: 'https://via.placeholder.com/300x200.png',
+      price: 33542,
+      Brand: [Object],
+      presence: true
+    }
+  ],
+  {
+    digits: { maxprice: 52534, minprice: 2072, maxpower: 7, minpower: 1 },
+    Brands: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+]
+PROPS FOR Cameras/PAGE   {
+  id: 1,
+  name: '0camera',
+  price: 9167,
+  resolution: '25.3',
+  angle: 103,
+  IK_far: 9,
+  Brand: 1,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: true,
+  AV: true,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 1, name: 'Satvision' },
+  littleCard: {
+    id: 1,
+    name: '0camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 9167,
+    Brand: { id: 1, name: 'Satvision' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  1
+PROPS FOR Cameras/PAGE   {
+  id: 2,
+  name: '1camera',
+  price: 20744,
+  resolution: '13',
+  angle: 147,
+  IK_far: 5,
+  Brand: 2,
+  AHD: true,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: false,
+  AV: true,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 2,
+    name: '1camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 20744,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  2
+PROPS FOR Cameras/PAGE   {
+  id: 3,
+  name: '2camera',
+  price: 7823,
+  resolution: '6.2',
+  angle: 79,
+  IK_far: 15,
+  Brand: 4,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 4, name: 'GEOZONE' },
+  littleCard: {
+    id: 3,
+    name: '2camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 7823,
+    Brand: { id: 4, name: 'GEOZONE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  3
+PROPS FOR Cameras/PAGE   {
+  id: 4,
+  name: '3camera',
+  price: 17816,
+  resolution: '4.8',
+  angle: 57,
+  IK_far: 5,
+  Brand: 5,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 4,
+    name: '3camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 17816,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  4
+PROPS FOR Cameras/PAGE   {
+  id: 5,
+  name: '4camera',
+  price: 33497,
+  resolution: '27.3',
+  angle: 138,
+  IK_far: 14,
+  Brand: 3,
+  AHD: true,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: true,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 5,
+    name: '4camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 33497,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  5
+PROPS FOR Cameras/PAGE   {
+  id: 6,
+  name: '5camera',
+  price: 19209,
+  resolution: '2.9',
+  angle: 40,
+  IK_far: 17,
+  Brand: 3,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 6,
+    name: '5camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 19209,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  6
+PROPS FOR Cameras/PAGE   {
+  id: 7,
+  name: '6camera',
+  price: 31627,
+  resolution: '14',
+  angle: 52,
+  IK_far: 16,
+  Brand: 5,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: false,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 7,
+    name: '6camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 31627,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  7
+PROPS FOR Cameras/PAGE   {
+  id: 9,
+  name: '8camera',
+  price: 32455,
+  resolution: '2.1',
+  angle: 136,
+  IK_far: 7,
+  Brand: 1,
+  AHD: true,
+  TVI: false,
+  CVI: false,
+  CVBS: false,
+  PAL: true,
+  move_check: false,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 1, name: 'Satvision' },
+  littleCard: {
+    id: 9,
+    name: '8camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 32455,
+    Brand: { id: 1, name: 'Satvision' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  9
+PROPS FOR Cameras/PAGE   {
+  id: 8,
+  name: '7camera',
+  price: 43852,
+  resolution: '26.6',
+  angle: 144,
+  IK_far: 20,
+  Brand: 2,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: false,
+  PAL: false,
+  move_check: true,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 8,
+    name: '7camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 43852,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  8
+PROPS FOR Cameras/PAGE   {
+  id: 11,
+  name: '10camera',
+  price: 3313,
+  resolution: '18.4',
+  angle: 42,
+  IK_far: 6,
+  Brand: 3,
+  AHD: true,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: true,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 11,
+    name: '10camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 3313,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  11
+PROPS FOR Cameras/PAGE   {
+  id: 12,
+  name: '11camera',
+  price: 40775,
+  resolution: '17.3',
+  angle: 149,
+  IK_far: 16,
+  Brand: 1,
+  AHD: true,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 1, name: 'Satvision' },
+  littleCard: {
+    id: 12,
+    name: '11camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 40775,
+    Brand: { id: 1, name: 'Satvision' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  12
+PROPS FOR Cameras/PAGE   {
+  id: 13,
+  name: '12camera',
+  price: 30212,
+  resolution: '3.3',
+  angle: 61,
+  IK_far: 8,
+  Brand: 1,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: false,
+  PAL: true,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 1, name: 'Satvision' },
+  littleCard: {
+    id: 13,
+    name: '12camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 30212,
+    Brand: { id: 1, name: 'Satvision' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  13
+PROPS FOR Cameras/PAGE   {
+  id: 14,
+  name: '13camera',
+  price: 4321,
+  resolution: '28.5',
+  angle: 119,
+  IK_far: 16,
+  Brand: 5,
+  AHD: true,
+  TVI: false,
+  CVI: false,
+  CVBS: false,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 14,
+    name: '13camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 4321,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  14
+PROPS FOR Cameras/PAGE   {
+  id: 15,
+  name: '14camera',
+  price: 30932,
+  resolution: '10',
+  angle: 131,
+  IK_far: 20,
+  Brand: 3,
+  AHD: true,
+  TVI: false,
+  CVI: false,
+  CVBS: false,
+  PAL: true,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: true,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 15,
+    name: '14camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 30932,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  15
+PROPS FOR Cameras/PAGE   {
+  id: 16,
+  name: '15camera',
+  price: 50367,
+  resolution: '12.3',
+  angle: 105,
+  IK_far: 11,
+  Brand: 2,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 16,
+    name: '15camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 50367,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  16
+PROPS FOR Cameras/PAGE   {
+  id: 18,
+  name: '17camera',
+  price: 19644,
+  resolution: '4.1',
+  angle: 146,
+  IK_far: 15,
+  Brand: 4,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: true,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 4, name: 'GEOZONE' },
+  littleCard: {
+    id: 18,
+    name: '17camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 19644,
+    Brand: { id: 4, name: 'GEOZONE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  18
+PROPS FOR Cameras/PAGE   {
+  id: 19,
+  name: '18camera',
+  price: 15294,
+  resolution: '19.3',
+  angle: 160,
+  IK_far: 13,
+  Brand: 5,
+  AHD: true,
+  TVI: true,
+  CVI: false,
+  CVBS: false,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: true,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 19,
+    name: '18camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 15294,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  19
+PROPS FOR Cameras/PAGE   {
+  id: 20,
+  name: '19camera',
+  price: 17347,
+  resolution: '10.9',
+  angle: 68,
+  IK_far: 13,
+  Brand: 2,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: true,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 20,
+    name: '19camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 17347,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  20
+PROPS FOR Cameras/PAGE   {
+  id: 21,
+  name: '20camera',
+  price: 25763,
+  resolution: '26.6',
+  angle: 128,
+  IK_far: 10,
+  Brand: 5,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: false,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 21,
+    name: '20camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 25763,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  21
+PROPS FOR Cameras/PAGE   {
+  id: 22,
+  name: '21camera',
+  price: 27717,
+  resolution: '27.5',
+  angle: 96,
+  IK_far: 3,
+  Brand: 2,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 22,
+    name: '21camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 27717,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  22
+PROPS FOR Cameras/PAGE   {
+  id: 23,
+  name: '22camera',
+  price: 45187,
+  resolution: '21.6',
+  angle: 56,
+  IK_far: 12,
+  Brand: 3,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: true,
+  low_temp: true,
+  AV: true,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 23,
+    name: '22camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 45187,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  23
+PROPS FOR Cameras/PAGE   {
+  id: 24,
+  name: '23camera',
+  price: 28274,
+  resolution: '7.7',
+  angle: 70,
+  IK_far: 16,
+  Brand: 2,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 24,
+    name: '23camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 28274,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  24
+info  - Generating static pages (32/131)
+PROPS FOR Cameras/PAGE   {
+  id: 25,
+  name: '24camera',
+  price: 41061,
+  resolution: '19.4',
+  angle: 125,
+  IK_far: 12,
+  Brand: 3,
+  AHD: false,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: true,
+  move_check: false,
+  water_protect: true,
+  low_temp: false,
+  AV: true,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 25,
+    name: '24camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 41061,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  25
+PROPS FOR Cameras/PAGE   {
+  id: 26,
+  name: '25camera',
+  price: 32452,
+  resolution: '24.1',
+  angle: 151,
+  IK_far: 7,
+  Brand: 4,
+  AHD: true,
+  TVI: false,
+  CVI: false,
+  CVBS: false,
+  PAL: true,
+  move_check: false,
+  water_protect: true,
+  low_temp: false,
+  AV: true,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 4, name: 'GEOZONE' },
+  littleCard: {
+    id: 26,
+    name: '25camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 32452,
+    Brand: { id: 4, name: 'GEOZONE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  26
+PROPS FOR Cameras/PAGE   {
+  id: 28,
+  name: '27camera',
+  price: 45972,
+  resolution: '16.4',
+  angle: 96,
+  IK_far: 10,
+  Brand: 5,
+  AHD: false,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: true,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 28,
+    name: '27camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 45972,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  28
+PROPS FOR Cameras/PAGE   {
+  id: 29,
+  name: '28camera',
+  price: 9458,
+  resolution: '14.2',
+  angle: 39,
+  IK_far: 5,
+  Brand: 3,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 29,
+    name: '28camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 9458,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  29
+PROPS FOR Cameras/PAGE   {
+  id: 30,
+  name: '29camera',
+  price: 36620,
+  resolution: '16.7',
+  angle: 155,
+  IK_far: 6,
+  Brand: 3,
+  AHD: true,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: false,
+  AV: true,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 30,
+    name: '29camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 36620,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  30
+PROPS FOR Cameras/PAGE   {
+  id: 31,
+  name: '30camera',
+  price: 49939,
+  resolution: '22.2',
+  angle: 40,
+  IK_far: 17,
+  Brand: 3,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: false,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 31,
+    name: '30camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 49939,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  31
+PROPS FOR Cameras/PAGE   {
+  id: 32,
+  name: '31camera',
+  price: 34608,
+  resolution: '9.8',
+  angle: 70,
+  IK_far: 11,
+  Brand: 3,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: false,
+  PAL: true,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: true,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 32,
+    name: '31camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 34608,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  32
+PROPS FOR Cameras/PAGE   {
+  id: 33,
+  name: '32camera',
+  price: 47424,
+  resolution: '15.1',
+  angle: 30,
+  IK_far: 8,
+  Brand: 1,
+  AHD: true,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 1, name: 'Satvision' },
+  littleCard: {
+    id: 33,
+    name: '32camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 47424,
+    Brand: { id: 1, name: 'Satvision' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  33
+PROPS FOR Cameras/PAGE   {
+  id: 34,
+  name: '33camera',
+  price: 17350,
+  resolution: '28.6',
+  angle: 129,
+  IK_far: 4,
+  Brand: 3,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: false,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 34,
+    name: '33camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 17350,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  34
+PROPS FOR Cameras/PAGE   {
+  id: 36,
+  name: '35camera',
+  price: 33846,
+  resolution: '6.8',
+  angle: 38,
+  IK_far: 18,
+  Brand: 3,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: true,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: false,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 36,
+    name: '35camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 33846,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  36
+PROPS FOR Cameras/PAGE   {
+  id: 38,
+  name: '37camera',
+  price: 8369,
+  resolution: '15',
+  angle: 31,
+  IK_far: 16,
+  Brand: 3,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: false,
+  PAL: true,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: true,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 38,
+    name: '37camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 8369,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  38
+PROPS FOR Cameras/PAGE   {
+  id: 35,
+  name: '34camera',
+  price: 48633,
+  resolution: '27.5',
+  angle: 82,
+  IK_far: 3,
+  Brand: 5,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: true,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 35,
+    name: '34camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 48633,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  35
+PROPS FOR Cameras/PAGE   {
+  id: 40,
+  name: '39camera',
+  price: 36099,
+  resolution: '7.8',
+  angle: 95,
+  IK_far: 6,
+  Brand: 1,
+  AHD: false,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 1, name: 'Satvision' },
+  littleCard: {
+    id: 40,
+    name: '39camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 36099,
+    Brand: { id: 1, name: 'Satvision' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  40
+PROPS FOR Cameras/PAGE   {
+  id: 42,
+  name: '41camera',
+  price: 4614,
+  resolution: '27',
+  angle: 79,
+  IK_far: 7,
+  Brand: 3,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 42,
+    name: '41camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 4614,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  42
+PROPS FOR Cameras/PAGE   {
+  id: 41,
+  name: '40camera',
+  price: 23644,
+  resolution: '2.7',
+  angle: 120,
+  IK_far: 9,
+  Brand: 3,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: true,
+  low_temp: true,
+  AV: true,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 41,
+    name: '40camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 23644,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  41
+PROPS FOR Cameras/PAGE   {
+  id: 43,
+  name: '42camera',
+  price: 10583,
+  resolution: '5.7',
+  angle: 33,
+  IK_far: 13,
+  Brand: 3,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: false,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: true,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 43,
+    name: '42camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 10583,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  43
+PROPS FOR Cameras/PAGE   {
+  id: 44,
+  name: '43camera',
+  price: 47066,
+  resolution: '5.6',
+  angle: 153,
+  IK_far: 10,
+  Brand: 5,
+  AHD: true,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 44,
+    name: '43camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 47066,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  44
+PROPS FOR Cameras/PAGE   {
+  id: 45,
+  name: '44camera',
+  price: 21326,
+  resolution: '20.5',
+  angle: 152,
+  IK_far: 8,
+  Brand: 2,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: false,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 45,
+    name: '44camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 21326,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  45
+PROPS FOR Cameras/PAGE   {
+  id: 47,
+  name: '46camera',
+  price: 25658,
+  resolution: '28.9',
+  angle: 134,
+  IK_far: 15,
+  Brand: 5,
+  AHD: true,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 47,
+    name: '46camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 25658,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  47
+PROPS FOR Cameras/PAGE   {
+  id: 48,
+  name: '47camera',
+  price: 5372,
+  resolution: '8.4',
+  angle: 141,
+  IK_far: 4,
+  Brand: 2,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 48,
+    name: '47camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 5372,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  48
+PROPS FOR Cameras/PAGE   {
+  id: 49,
+  name: '48camera',
+  price: 8782,
+  resolution: '13.8',
+  angle: 127,
+  IK_far: 3,
+  Brand: 1,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 1, name: 'Satvision' },
+  littleCard: {
+    id: 49,
+    name: '48camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 8782,
+    Brand: { id: 1, name: 'Satvision' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  49
+PROPS FOR Cameras/PAGE   {
+  id: 51,
+  name: '50camera',
+  price: 17489,
+  resolution: '19.4',
+  angle: 58,
+  IK_far: 3,
+  Brand: 5,
+  AHD: false,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 51,
+    name: '50camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 17489,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  51
+PROPS FOR Cameras/PAGE   {
+  id: 52,
+  name: '51camera',
+  price: 16187,
+  resolution: '10.5',
+  angle: 31,
+  IK_far: 6,
+  Brand: 5,
+  AHD: false,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 52,
+    name: '51camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 16187,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  52
+PROPS FOR Cameras/PAGE   {
+  id: 53,
+  name: '52camera',
+  price: 50913,
+  resolution: '9.5',
+  angle: 141,
+  IK_far: 6,
+  Brand: 4,
+  AHD: true,
+  TVI: true,
+  CVI: false,
+  CVBS: false,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 4, name: 'GEOZONE' },
+  littleCard: {
+    id: 53,
+    name: '52camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 50913,
+    Brand: { id: 4, name: 'GEOZONE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  53
+PROPS FOR Cameras/PAGE   {
+  id: 54,
+  name: '53camera',
+  price: 13438,
+  resolution: '9.9',
+  angle: 96,
+  IK_far: 17,
+  Brand: 5,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: false,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: true,
+  AV: false,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 54,
+    name: '53camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 13438,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  54
+PROPS FOR Cameras/PAGE   {
+  id: 55,
+  name: '54camera',
+  price: 30028,
+  resolution: '20.1',
+  angle: 46,
+  IK_far: 7,
+  Brand: 3,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: false,
+  PAL: false,
+  move_check: true,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 55,
+    name: '54camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 30028,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  55
+PROPS FOR Cameras/PAGE   {
+  id: 56,
+  name: '55camera',
+  price: 18334,
+  resolution: '7.6',
+  angle: 96,
+  IK_far: 8,
+  Brand: 3,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: true,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 56,
+    name: '55camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 18334,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  56
+PROPS FOR Cameras/PAGE   {
+  id: 57,
+  name: '56camera',
+  price: 20484,
+  resolution: '18.5',
+  angle: 79,
+  IK_far: 8,
+  Brand: 5,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: false,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: false,
+  AV: true,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 57,
+    name: '56camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 20484,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  57
+PROPS FOR Cameras/PAGE   {
+  id: 59,
+  name: '58camera',
+  price: 27317,
+  resolution: '3.8',
+  angle: 92,
+  IK_far: 14,
+  Brand: 5,
+  AHD: false,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: true,
+  remote_control: true,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 59,
+    name: '58camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 27317,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  59
+PROPS FOR Cameras/PAGE   {
+  id: 58,
+  name: '57camera',
+  price: 25132,
+  resolution: '22.3',
+  angle: 52,
+  IK_far: 11,
+  Brand: 5,
+  AHD: true,
+  TVI: true,
+  CVI: false,
+  CVBS: false,
+  PAL: true,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: false,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 58,
+    name: '57camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 25132,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  58
+PROPS FOR Cameras/PAGE   {
+  id: 27,
+  name: '26camera',
+  price: 35604,
+  resolution: '28.5',
+  angle: 156,
+  IK_far: 20,
+  Brand: 2,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: false,
+  AV: false,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: false,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 27,
+    name: '26camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 35604,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: false
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  27
+PROPS FOR Cameras/PAGE   {
+  id: 60,
+  name: '59camera',
+  price: 4694,
+  resolution: '4.2',
+  angle: 62,
+  IK_far: 7,
+  Brand: 4,
+  AHD: false,
+  TVI: true,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: true,
+  remote_control: false,
+  wireless: true,
+  created_at: null,
+  updated_at: null,
+  presence: true,
+  camera_maker: { id: 4, name: 'GEOZONE' },
+  littleCard: {
+    id: 60,
+    name: '59camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 4694,
+    Brand: { id: 4, name: 'GEOZONE' },
+    presence: true
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  60
+PROPS FOR Cameras/PAGE   {
+  id: 17,
+  name: '16camera',
+  price: 14555,
+  resolution: '16.5',
+  angle: 114,
+  IK_far: 11,
+  Brand: 2,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: false,
+  low_temp: false,
+  AV: false,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: false,
+  camera_maker: { id: 2, name: 'FALCON EYE' },
+  littleCard: {
+    id: 17,
+    name: '16camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 14555,
+    Brand: { id: 2, name: 'FALCON EYE' },
+    presence: false
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  17
+info  - Generating static pages (65/131)
+PROPS FOR Cameras/PAGE   {
+  id: 39,
+  name: '38camera',
+  price: 23051,
+  resolution: '17.7',
+  angle: 80,
+  IK_far: 12,
+  Brand: 5,
+  AHD: true,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: true,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: false,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 39,
+    name: '38camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 23051,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: false
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  39
+PROPS FOR Cameras/PAGE   {
+  id: 10,
+  name: '9camera',
+  price: 10479,
+  resolution: '8.6',
+  angle: 159,
+  IK_far: 6,
+  Brand: 5,
+  AHD: true,
+  TVI: false,
+  CVI: true,
+  CVBS: false,
+  PAL: true,
+  move_check: true,
+  water_protect: true,
+  low_temp: false,
+  AV: true,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: false,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 10,
+    name: '9camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 10479,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: false
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  10
+PROPS FOR Cameras/PAGE   {
+  id: 37,
+  name: '36camera',
+  price: 51727,
+  resolution: '13.7',
+  angle: 130,
+  IK_far: 16,
+  Brand: 5,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: false,
+  water_protect: true,
+  low_temp: true,
+  AV: true,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: false,
+  camera_maker: { id: 5, name: 'D-LINK' },
+  littleCard: {
+    id: 37,
+    name: '36camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 51727,
+    Brand: { id: 5, name: 'D-LINK' },
+    presence: false
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  37
+PROPS FOR Cameras/PAGE   {
+  id: 50,
+  name: '49camera',
+  price: 45016,
+  resolution: '8.6',
+  angle: 66,
+  IK_far: 16,
+  Brand: 4,
+  AHD: false,
+  TVI: false,
+  CVI: false,
+  CVBS: true,
+  PAL: true,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: true,
+  remote_control: false,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: false,
+  camera_maker: { id: 4, name: 'GEOZONE' },
+  littleCard: {
+    id: 50,
+    name: '49camera',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 45016,
+    Brand: { id: 4, name: 'GEOZONE' },
+    presence: false
+  },
+  section: 'cameras',
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ]
+} id:  50
+PROPS FOR Cameras/PAGE   {
+  id: 46,
+  name: '45camera',
+  price: 9808,
+  resolution: '19.2',
+  angle: 155,
+  IK_far: 5,
+  Brand: 3,
+  AHD: false,
+  TVI: true,
+  CVI: false,
+  CVBS: true,
+  PAL: false,
+  move_check: true,
+  water_protect: false,
+  low_temp: true,
+  AV: true,
+  remote_control: true,
+  wireless: false,
+  created_at: null,
+  updated_at: null,
+  presence: false,
+  camera_maker: { id: 3, name: 'EZVIZ' },
+  littleCard: {
+    id: 46,
+    name: '45camera',
+    pic: 'http://apiback/pictures/cams/45camera/avatar.jpeg',
+    price: 9808,
+    Brand: { id: 3, name: 'EZVIZ' },
+    presence: false
+  },
+  section: 'cameras',
+  pics: [
+    'http://apiback/pictures/cams/45camera/1.jpeg',
+    'http://apiback/pictures/cams/45camera/2.jpeg',
+    'http://apiback/pictures/cams/45camera/3.jpeg'
+  ]
+} id:  46
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/1',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 1,
+  name: '0conditioner',
+  power: 1,
+  price: 43233,
+  Brand: 3,
+  presence: true,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 1,
+    name: '0conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 43233,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  1
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/2',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 2,
+  name: '1conditioner',
+  power: 6,
+  price: 15688,
+  Brand: 5,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: true,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 2,
+    name: '1conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 15688,
+    Brand: { id: 5, name: 'LG' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  2
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/4',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 4,
+  name: '3conditioner',
+  power: 6,
+  price: 8087,
+  Brand: 3,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: true,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 4,
+    name: '3conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 8087,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  4
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/3',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 3,
+  name: '2conditioner',
+  power: 6,
+  price: 24541,
+  Brand: 3,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 3,
+    name: '2conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 24541,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  3
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/5',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 5,
+  name: '4conditioner',
+  power: 2,
+  price: 25320,
+  Brand: 4,
+  presence: false,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 5,
+    name: '4conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 25320,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  5
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/7',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/6',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 7,
+  name: '6conditioner',
+  power: 5,
+  price: 14124,
+  Brand: 4,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 7,
+    name: '6conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 14124,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  7
+PROPS FOR Cameras/PAGE   {
+  id: 6,
+  name: '5conditioner',
+  power: 3,
+  price: 11267,
+  Brand: 5,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: true,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 6,
+    name: '5conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 11267,
+    Brand: { id: 5, name: 'LG' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  6
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/8',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 8,
+  name: '7conditioner',
+  power: 7,
+  price: 44996,
+  Brand: 3,
+  presence: false,
+  inverter: false,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 8,
+    name: '7conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 44996,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  8
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/9',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 9,
+  name: '8conditioner',
+  power: 7,
+  price: 10187,
+  Brand: 5,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 9,
+    name: '8conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 10187,
+    Brand: { id: 5, name: 'LG' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  9
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/10',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 10,
+  name: '9conditioner',
+  power: 1,
+  price: 35857,
+  Brand: 2,
+  presence: true,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 2, name: 'DAIKIN' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 10,
+    name: '9conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 35857,
+    Brand: { id: 2, name: 'DAIKIN' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  10
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/11',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 11,
+  name: '10conditioner',
+  power: 6,
+  price: 47865,
+  Brand: 3,
+  presence: true,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 11,
+    name: '10conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 47865,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  11
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/12',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 12,
+  name: '11conditioner',
+  power: 2,
+  price: 36195,
+  Brand: 1,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 12,
+    name: '11conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 36195,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  12
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/13',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 13,
+  name: '12conditioner',
+  power: 3,
+  price: 17009,
+  Brand: 1,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 13,
+    name: '12conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 17009,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  13
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/14',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 14,
+  name: '13conditioner',
+  power: 6,
+  price: 24956,
+  Brand: 5,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: true,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 14,
+    name: '13conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 24956,
+    Brand: { id: 5, name: 'LG' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  14
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/15',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 15,
+  name: '14conditioner',
+  power: 7,
+  price: 42883,
+  Brand: 5,
+  presence: true,
+  inverter: true,
+  freezing: false,
+  heating: true,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 15,
+    name: '14conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 42883,
+    Brand: { id: 5, name: 'LG' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  15
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/16',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 16,
+  name: '15conditioner',
+  power: 3,
+  price: 5941,
+  Brand: 4,
+  presence: true,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 16,
+    name: '15conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 5941,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  16
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/17',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 17,
+  name: '16conditioner',
+  power: 6,
+  price: 41821,
+  Brand: 5,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 17,
+    name: '16conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 41821,
+    Brand: { id: 5, name: 'LG' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  17
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/18',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 18,
+  name: '17conditioner',
+  power: 4,
+  price: 35849,
+  Brand: 4,
+  presence: true,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: true,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 18,
+    name: '17conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 35849,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  18
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/19',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 19,
+  name: '18conditioner',
+  power: 6,
+  price: 26944,
+  Brand: 1,
+  presence: false,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 19,
+    name: '18conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 26944,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  19
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/20',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 20,
+  name: '19conditioner',
+  power: 6,
+  price: 12055,
+  Brand: 4,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 20,
+    name: '19conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 12055,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  20
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/21',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 21,
+  name: '20conditioner',
+  power: 4,
+  price: 33615,
+  Brand: 3,
+  presence: true,
+  inverter: false,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 21,
+    name: '20conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 33615,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  21
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/22',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 22,
+  name: '21conditioner',
+  power: 4,
+  price: 39110,
+  Brand: 3,
+  presence: true,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 22,
+    name: '21conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 39110,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  22
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/23',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 23,
+  name: '22conditioner',
+  power: 2,
+  price: 12704,
+  Brand: 3,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: true,
+  winding: true,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 23,
+    name: '22conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 12704,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  23
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/24',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 24,
+  name: '23conditioner',
+  power: 2,
+  price: 48723,
+  Brand: 5,
+  presence: false,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 24,
+    name: '23conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 48723,
+    Brand: { id: 5, name: 'LG' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  24
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/25',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 25,
+  name: '24conditioner',
+  power: 2,
+  price: 38387,
+  Brand: 3,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 25,
+    name: '24conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 38387,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  25
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/26',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 26,
+  name: '25conditioner',
+  power: 7,
+  price: 12310,
+  Brand: 4,
+  presence: true,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 26,
+    name: '25conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 12310,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  26
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/27',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 27,
+  name: '26conditioner',
+  power: 7,
+  price: 52139,
+  Brand: 1,
+  presence: true,
+  inverter: false,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 27,
+    name: '26conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 52139,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  27
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/28',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 28,
+  name: '27conditioner',
+  power: 1,
+  price: 27774,
+  Brand: 3,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: true,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 28,
+    name: '27conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 27774,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  28
+info  - Generating static pages (98/131)
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/29',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 29,
+  name: '28conditioner',
+  power: 6,
+  price: 32530,
+  Brand: 1,
+  presence: false,
+  inverter: false,
+  freezing: false,
+  heating: true,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 29,
+    name: '28conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 32530,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  29
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/30',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 30,
+  name: '29conditioner',
+  power: 1,
+  price: 44232,
+  Brand: 3,
+  presence: true,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 30,
+    name: '29conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 44232,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  30
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/31',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 31,
+  name: '30conditioner',
+  power: 4,
+  price: 32450,
+  Brand: 1,
+  presence: true,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 31,
+    name: '30conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 32450,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  31
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/32',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 32,
+  name: '31conditioner',
+  power: 7,
+  price: 22882,
+  Brand: 1,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: true,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 32,
+    name: '31conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 22882,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  32
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/34',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 34,
+  name: '33conditioner',
+  power: 1,
+  price: 33543,
+  Brand: 4,
+  presence: true,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 34,
+    name: '33conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 33543,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  34
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/33',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 33,
+  name: '32conditioner',
+  power: 5,
+  price: 33438,
+  Brand: 1,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 33,
+    name: '32conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 33438,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  33
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/35',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 35,
+  name: '34conditioner',
+  power: 1,
+  price: 41058,
+  Brand: 5,
+  presence: true,
+  inverter: false,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 35,
+    name: '34conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 41058,
+    Brand: { id: 5, name: 'LG' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  35
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/36',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 36,
+  name: '35conditioner',
+  power: 7,
+  price: 43932,
+  Brand: 1,
+  presence: true,
+  inverter: false,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 36,
+    name: '35conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 43932,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  36
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/37',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 37,
+  name: '36conditioner',
+  power: 4,
+  price: 27290,
+  Brand: 4,
+  presence: true,
+  inverter: true,
+  freezing: false,
+  heating: true,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 37,
+    name: '36conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 27290,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  37
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/38',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 38,
+  name: '37conditioner',
+  power: 7,
+  price: 16483,
+  Brand: 1,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 38,
+    name: '37conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 16483,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  38
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/39',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 39,
+  name: '38conditioner',
+  power: 7,
+  price: 25156,
+  Brand: 4,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 39,
+    name: '38conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 25156,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  39
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/40',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 40,
+  name: '39conditioner',
+  power: 6,
+  price: 28715,
+  Brand: 3,
+  presence: false,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 40,
+    name: '39conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 28715,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  40
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/41',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 41,
+  name: '40conditioner',
+  power: 4,
+  price: 40819,
+  Brand: 2,
+  presence: false,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 2, name: 'DAIKIN' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 41,
+    name: '40conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 40819,
+    Brand: { id: 2, name: 'DAIKIN' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  41
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/42',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 42,
+  name: '41conditioner',
+  power: 6,
+  price: 32207,
+  Brand: 5,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: true,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 42,
+    name: '41conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 32207,
+    Brand: { id: 5, name: 'LG' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  42
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/43',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 43,
+  name: '42conditioner',
+  power: 7,
+  price: 45396,
+  Brand: 2,
+  presence: false,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 2, name: 'DAIKIN' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 43,
+    name: '42conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 45396,
+    Brand: { id: 2, name: 'DAIKIN' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  43
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/44',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 44,
+  name: '43conditioner',
+  power: 3,
+  price: 32632,
+  Brand: 1,
+  presence: true,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 44,
+    name: '43conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 32632,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  44
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/45',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 45,
+  name: '44conditioner',
+  power: 1,
+  price: 19440,
+  Brand: 5,
+  presence: true,
+  inverter: false,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 45,
+    name: '44conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 19440,
+    Brand: { id: 5, name: 'LG' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  45
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/46',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 46,
+  name: '45conditioner',
+  power: 1,
+  price: 9419,
+  Brand: 3,
+  presence: false,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [
+    'http://apiback/pictures/conds/45conditioner/1.jpeg',
+    'http://apiback/pictures/conds/45conditioner/2.jpeg',
+    'http://apiback/pictures/conds/45conditioner/3.jpeg'
+  ],
+  littleCard: {
+    id: 46,
+    name: '45conditioner',
+    pic: 'http://apiback/pictures/conds/45conditioner/avatar.jpeg',
+    price: 9419,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  46
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/48',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 48,
+  name: '47conditioner',
+  power: 3,
+  price: 14844,
+  Brand: 4,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 48,
+    name: '47conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 14844,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  48
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/47',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 47,
+  name: '46conditioner',
+  power: 6,
+  price: 25556,
+  Brand: 5,
+  presence: true,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 47,
+    name: '46conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 25556,
+    Brand: { id: 5, name: 'LG' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  47
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/49',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 49,
+  name: '48conditioner',
+  power: 2,
+  price: 2072,
+  Brand: 4,
+  presence: true,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 4, name: 'BOSCH' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 49,
+    name: '48conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 2072,
+    Brand: { id: 4, name: 'BOSCH' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  49
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/51',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 51,
+  name: '50conditioner',
+  power: 4,
+  price: 52534,
+  Brand: 3,
+  presence: true,
+  inverter: true,
+  freezing: true,
+  heating: true,
+  winding: true,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 51,
+    name: '50conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 52534,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  51
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/50',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 50,
+  name: '49conditioner',
+  power: 1,
+  price: 27844,
+  Brand: 3,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: true,
+  winding: false,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 50,
+    name: '49conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 27844,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  50
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/52',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 52,
+  name: '51conditioner',
+  power: 7,
+  price: 8676,
+  Brand: 2,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 2, name: 'DAIKIN' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 52,
+    name: '51conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 8676,
+    Brand: { id: 2, name: 'DAIKIN' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  52
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/53',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 53,
+  name: '52conditioner',
+  power: 7,
+  price: 25792,
+  Brand: 3,
+  presence: false,
+  inverter: true,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 53,
+    name: '52conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 25792,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  53
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/54',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 54,
+  name: '53conditioner',
+  power: 3,
+  price: 38294,
+  Brand: 1,
+  presence: true,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: true,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 54,
+    name: '53conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 38294,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  54
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/55',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 55,
+  name: '54conditioner',
+  power: 1,
+  price: 30411,
+  Brand: 2,
+  presence: false,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 2, name: 'DAIKIN' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 55,
+    name: '54conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 30411,
+    Brand: { id: 2, name: 'DAIKIN' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  55
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/56',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 56,
+  name: '55conditioner',
+  power: 7,
+  price: 43040,
+  Brand: 5,
+  presence: true,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 56,
+    name: '55conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 43040,
+    Brand: { id: 5, name: 'LG' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  56
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/57',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 57,
+  name: '56conditioner',
+  power: 2,
+  price: 17729,
+  Brand: 3,
+  presence: true,
+  inverter: true,
+  freezing: false,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 3, name: 'BALLU' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 57,
+    name: '56conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 17729,
+    Brand: { id: 3, name: 'BALLU' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  57
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/58',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 58,
+  name: '57conditioner',
+  power: 6,
+  price: 51087,
+  Brand: 5,
+  presence: false,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: true,
+  drying: true,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 5, name: 'LG' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 58,
+    name: '57conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 51087,
+    Brand: { id: 5, name: 'LG' },
+    presence: false
+  },
+  section: 'conditioners'
+} id:  58
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/59',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 59,
+  name: '58conditioner',
+  power: 2,
+  price: 47807,
+  Brand: 1,
+  presence: true,
+  inverter: false,
+  freezing: true,
+  heating: false,
+  winding: false,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 1, name: 'ELECTROLUX' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 59,
+    name: '58conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 47807,
+    Brand: { id: 1, name: 'ELECTROLUX' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  59
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: PassThrough {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kTransformState)]: [Object]
+    },
+    disturbed: true,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'http://apiback/api/products/conditioner/60',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}
+PROPS FOR Cameras/PAGE   {
+  id: 60,
+  name: '59conditioner',
+  power: 3,
+  price: 33542,
+  Brand: 2,
+  presence: true,
+  inverter: false,
+  freezing: true,
+  heating: true,
+  winding: true,
+  drying: false,
+  created_at: null,
+  updated_at: null,
+  conditioner_maker: { id: 2, name: 'DAIKIN' },
+  pics: [ 'https://via.placeholder.com/1000x600.jpeg' ],
+  littleCard: {
+    id: 60,
+    name: '59conditioner',
+    pic: 'https://via.placeholder.com/300x200.png',
+    price: 33542,
+    Brand: { id: 2, name: 'DAIKIN' },
+    presence: true
+  },
+  section: 'conditioners'
+} id:  60
+info  - Generating static pages (131/131)
+info  - Finalizing page optimization...
+
+Page                                        Size     First Load JS
+┌ ○ / (1978 ms)                             364 B           173 kB
+├   /_app                                   0 B            81.5 kB
+├ ○ /404 (2084 ms)                          296 B           173 kB
+├ ● /cameras/[page] (4370 ms)               415 B           173 kB
+├   ├ /cameras/1 (2610 ms)
+├   ├ /cameras/2 (631 ms)
+├   ├ /cameras/3 (589 ms)
+├   └ /cameras/4 (540 ms)
+├ ● /conditioners/[page] (2046 ms)          416 B           173 kB
+├   ├ /conditioners/3 (547 ms)
+├   ├ /conditioners/1 (545 ms)
+├   ├ /conditioners/2 (499 ms)
+├   └ /conditioners/4 (455 ms)
+├ ● /products/cameras/[id] (28151 ms)       465 B           173 kB
+├   ├ /products/cameras/5 (623 ms)
+├   ├ /products/cameras/3 (600 ms)
+├   ├ /products/cameras/7 (571 ms)
+├   ├ /products/cameras/2 (551 ms)
+├   ├ /products/cameras/1 (543 ms)
+├   ├ /products/cameras/6 (543 ms)
+├   ├ /products/cameras/4 (538 ms)
+├   └ [+53 more paths] (avg 456 ms)
+└ ● /products/conditioners/[id] (26963 ms)  469 B           173 kB
+    ├ /products/conditioners/49 (624 ms)
+    ├ /products/conditioners/43 (563 ms)
+    ├ /products/conditioners/44 (554 ms)
+    ├ /products/conditioners/47 (541 ms)
+    ├ /products/conditioners/53 (532 ms)
+    ├ /products/conditioners/54 (530 ms)
+    ├ /products/conditioners/33 (524 ms)
+    └ [+53 more paths] (avg 436 ms)
++ First Load JS shared by all               81.5 kB
+  ├ chunks/framework.2191d1.js              42.4 kB
+  ├ chunks/main.222191.js                   23.4 kB
+  ├ chunks/pages/_app.18b466.js             14.9 kB
+  ├ chunks/webpack.ddd010.js                822 B
+  └ css/b377e1ffe5de774a5437.css            154 B
+
+λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+○  (Static)  automatically rendered as static HTML (uses no initial props)
+●  (SSG)     automatically generated as static HTML + JSON (uses getStaticProps)
+   (ISR)     incremental static regeneration (uses revalidate in getStaticProps)
+

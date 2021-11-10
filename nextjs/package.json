@@ -1,0 +1,31 @@
+{
+  "name": "nextjs",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/core": "5.0.0-alpha.28",
+    "@mui/icons-material": "^5.0.1",
+    "clsx": "latest",
+    "next": "latest",
+    "next-images": "^1.8.1",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-spinners": "^0.11.0",
+    "react-swipeable-views": "^0.14.0",
+    "react-swipeable-views-utils": "^0.14.0",
+    "svg-loaders-react": "^2.2.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
+  },
+  "devDependencies": {
+    "@material-ui/icons": "^4.11.2",
+    "@mui/material": "^5.0.0-rc.0"
+  }
+}
